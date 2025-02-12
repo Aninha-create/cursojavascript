@@ -1,4 +1,3 @@
-# status do projeto
->🚧: Projeto em construção!🚧
-# Atividade do curso no youtube
-Acrescentarei outros arquivos e linguagens conforme eu for avançando.
+Esse projeto é uma atividade realizada no curso do youtube.
+Status do projeto >:construction: Projeto em construção: construction:
+Pretendo inserir outros arquivos conforme avançar no curso.
